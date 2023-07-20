@@ -1,3 +1,6 @@
+## OPEN THE "Data-structures-and-algorithms-inventory-management-system" BRANCH TO VIEW THE CODES
+The default branch only consists of the README.md file
+
 # Inventory Management System
 
 The Inventory Management System is a Java-based application designed for managing inventory in a provision store. It provides features for adding goods, managing vendors, tracking issued goods, and generating reports. The system utilizes data structures, searching and sorting algorithms, and a database backend for efficient inventory management.
