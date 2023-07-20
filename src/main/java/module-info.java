@@ -1,3 +1,9 @@
+/**
+10904385
+Kassim Mohammed Tawfick
+**/
+
+
 module com.example.inventorymanagemensystem {
     requires javafx.controls;
     requires javafx.fxml;
