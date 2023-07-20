@@ -1,5 +1,4 @@
-## OPEN THE "Data-structures-and-algorithms-inventory-management-system" BRANCH TO VIEW THE CODES
-The default branch only consists of the README.md file
+## 10904385   Kassim Mohammed Tawfick 
 
 # Inventory Management System
 
