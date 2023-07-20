@@ -1,3 +1,8 @@
+/**
+10904385
+Kassim Mohammed Tawfick
+**/
+
 package com.example.inventorymanagemensystem;
 import java.sql.Connection;
 import java.sql.DriverManager;
